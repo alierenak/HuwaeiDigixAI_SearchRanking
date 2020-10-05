@@ -8,7 +8,7 @@ Simply, Data has 364 columns and roughly 6M rows. Columns mainly gives informati
 
 **More details I recommend to read comments is scripts**
 
-**To clone:** git clone https://github.com/akalieren/Huawei_SearchRanking.git
+**To clone:** git clone https://github.com/akalieren/HuwaeiDigixAI_SearchRanking.git
 
 **To install requirements:** pip install -r requirements.txt
 
